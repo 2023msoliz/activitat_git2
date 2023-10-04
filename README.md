@@ -1,1 +1,1 @@
-# activitat_git2
+# activitat_git
